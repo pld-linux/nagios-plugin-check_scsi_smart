@@ -2,7 +2,7 @@
 Summary:	Nagios plugin to check the state of disk using SMART data
 Name:		nagios-plugin-%{plugin}
 Version:	1.2.3
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Base
 Source0:	https://github.com/spjmurray/nagios-plugin-check-scsi-smart/archive/v%{version}.tar.gz
